@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Token Unlock Impact Predictor";
+export const description = "Analyze upcoming token unlock events and estimate their potential impact on price, market sentiment, and circulating supply.";
 export const url = process.env.NEXT_PUBLIC_URL;
